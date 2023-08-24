@@ -1,0 +1,14 @@
+{
+  "name": "aula_1",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Henrique de Paula",
+  "license": "ISC",
+  "dependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}

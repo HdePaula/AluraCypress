@@ -1,0 +1,6 @@
+instalando o mochawesome
+ - npm install --save-dav mochawesome
+
+
+rodando o teste com o mochawesome como intermediario
+ -  npx cypress run --reporter mochawesome
